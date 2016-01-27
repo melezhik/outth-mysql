@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "name": "outth-mysql",
+    "engine": "generic", 
+    "description" : "outthentic tests for mysql server",
+    "url": "https://github.com/melezhik/outth-mysql.git"
+}
